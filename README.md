@@ -7,8 +7,8 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/4fd03ca
 
 2 Questions are asked, as of now 2 questions will be asked from these questions, provided the solution also:
 ## Programs / Questions
-- [Student Analysis](student-analysis.sql)
-- [Country Codes](country-codes.sql)
+- [Invoices Per Country](invoices-per-country.sql)
+- [Product Sales Per City](product-sales-per-city.sql)
 
 ## Follow me
 
